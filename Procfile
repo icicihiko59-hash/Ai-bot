@@ -1,1 +1,1 @@
-web:python Ai.py
+worker: python Ai.py
